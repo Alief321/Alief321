@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Alief321
 - 👀 I’m interested in programming and video games
-- 🌱 I’m currently learning php
-- 🎉 I also learned a little bit about python,pascal,javascript and php
+- 🌱 I’m currently learning nothing
 - 😁 Nice to meet you guys
 
 <!---
