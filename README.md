@@ -15,9 +15,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Alief321&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=Mahklukbumi6)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
