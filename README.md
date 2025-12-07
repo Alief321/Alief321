@@ -21,6 +21,9 @@
 ### 😂 Random Dev Meme
 <img alt="Meme of the day" src="https://raw.githubusercontent.com/Frodothedwarf/dynamic-readme-meme/refs/heads/main/memes/programmerhumorio/todays_png.png" height="500">
 
+## ⭐ Random Trending Topic In X Indonesia
+![Random Trending Indonesia](https://raw.githubusercontent.com/Alief321/random-trending-X/main/trending-badge.svg)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=Alief321&label=Orang%20Kepo&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
