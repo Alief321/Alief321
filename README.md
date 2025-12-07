@@ -19,7 +19,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 😂 Random Dev Meme
-<img src="https://pbs.twimg.com/media/FoCNHo0aAAA7_Dd.jpg" width="512px"/>
+<img alt="Meme of the day" src="https://raw.githubusercontent.com/Frodothedwarf/dynamic-readme-meme/refs/heads/main/memes/programmerhumorio/todays_png.png" height="500">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Alief321&label=Orang%20Kepo&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)
