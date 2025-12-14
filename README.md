@@ -13,6 +13,9 @@
 </a>
 </p>
 
+![](https://nirzak-streak-stats.vercel.app/?user=Alief321&theme=dark&hide_border=false)<br/>
+
+
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Alief321&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
